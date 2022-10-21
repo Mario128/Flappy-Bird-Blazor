@@ -104,15 +104,13 @@ using FlappyBirdV2.Models;
             __builder.OpenElement(3, "div");
             __builder.AddAttribute(4, "class", "main");
             __builder.AddAttribute(5, "b-5jopag1i7b");
-            __builder.AddContent(6, 
 #nullable restore
 #line 7 "C:\Users\Mario\Desktop\myprojects\FlappyBirdV2\FlappyBirdV2\Shared\MainLayout.razor"
-             Body
+__builder.AddContent(6, Body);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.CloseElement();
         }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "68HvbpOXkoocVF6NvupjMywUf0LO5vcmn2sKl9rMqOtiKGuA6/Rx08b8P/wLiYxd5IDnH1yZcaLrxtp/hrQ8LA==",
+  "dgSpecHash": "dmV+9IvIhm3WtSp6XKcEgn3EhOdw9beIZOdZDFaxohTMUa7sTxyR4o0/B2pWVuRJnW0qh/YywUcY3NCj0L39eA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mario\\Desktop\\myprojects\\FlappyBirdV2\\FlappyBirdV2\\FlappyBirdV2.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,10 @@
     "C:\\Users\\Mario\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.17\\microsoft.jsinterop.webassembly.5.0.17.nupkg.sha512",
     "C:\\Users\\Mario\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
     "C:\\Users\\Mario\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.17\\microsoft.netcore.app.runtime.browser-wasm.5.0.17.nupkg.sha512"
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.17\\microsoft.netcore.app.runtime.browser-wasm.5.0.17.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

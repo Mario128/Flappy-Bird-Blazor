@@ -122,7 +122,7 @@ using FlappyBirdV2.Models;
             __builder.OpenElement(5, "div");
             __builder.AddAttribute(6, "class", "sky");
             __builder.OpenComponent<FlappyBirdV2.Components.BirdComponent>(7);
-            __builder.AddAttribute(8, "Model", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<FlappyBirdV2.Models.Bird>(
+            __builder.AddAttribute(8, "Model", global::Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<FlappyBirdV2.Models.Bird>(
 #nullable restore
 #line 3 "C:\Users\Mario\Desktop\myprojects\FlappyBirdV2\FlappyBirdV2\Components\GameContainer.razor"
                               _gameManager.MyBird
@@ -151,7 +151,7 @@ using FlappyBirdV2.Models;
 #line hidden
 #nullable disable
             __builder.OpenComponent<FlappyBirdV2.Components.PipeComponent>(9);
-            __builder.AddAttribute(10, "Model", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<FlappyBirdV2.Models.Pipe>(
+            __builder.AddAttribute(10, "Model", global::Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<FlappyBirdV2.Models.Pipe>(
 #nullable restore
 #line 10 "C:\Users\Mario\Desktop\myprojects\FlappyBirdV2\FlappyBirdV2\Components\GameContainer.razor"
                                   p
